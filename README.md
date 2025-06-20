@@ -1,2 +1,4 @@
-# Math-calculator
-My 2022 summerbreak project, i will keep working on it after summerbreak.
+# Graphical Calculator
+My 2022 summerbreak project
+
+A python based Calculator GUI, complete with graphs and pythagorean theorem calculator
